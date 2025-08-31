@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('arl', 'axa', 'colpatria')",12,arl axa colpatria
+"('atención', 'axa', 'colpatria')",12,atención axa colpatria
+"('scotiabank', 'colpatria', 'axa')",9,scotiabank colpatria axa
+"('axa', 'colpatria', 'sumó')",8,axa colpatria sumó
+"('colpatria', 'sumó', 'pa')",8,colpatria sumó pa
+"('sumó', 'pa', 'lante')",8,sumó pa lante
+"('pa', 'lante', 'colombia')",8,pa lante colombia
+"('axa', 'colpatria', 'busca')",8,axa colpatria busca
+"('colpatria', 'busca', 'profesionales')",8,colpatria busca profesionales
+"('colpatria', 'axa', 'colpatria')",8,colpatria axa colpatria
+"('junto', 'axa', 'colpatria')",6,junto axa colpatria
+"('alianza', 'ofrecer', 'soluciones')",6,alianza ofrecer soluciones
+"('nuevo', 'servicio', 'adquirir')",6,nuevo servicio adquirir
+"('servicio', 'adquirir', 'soat')",6,servicio adquirir soat
+"('axa', 'colpatria', 'seguros')",6,axa colpatria seguros
+"('asesora', 'seguros', 'trabajo')",6,asesora seguros trabajo
+"('seguros', 'trabajo', 'sura')",6,seguros trabajo sura
+"('trabajo', 'sura', 'allianz')",6,trabajo sura allianz
+"('sura', 'allianz', 'axa')",6,sura allianz axa
+"('allianz', 'axa', 'colpatria')",6,allianz axa colpatria

@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('fundación', 'mapfre')",28,fundación mapfre
+"('mapfre', 'economics')",16,mapfre economics
+"('américa', 'latina')",14,américa latina
+"('aseguradora', 'mapfre')",11,aseguradora mapfre
+"('mapfre', 'seguros')",10,mapfre seguros
+"('mapfre', 'creció')",7,mapfre creció
+"('mapfre', 'colombia')",6,mapfre colombia
+"('innovación', 'social')",6,innovación social
+"('primer', 'trimestre')",6,primer trimestre
+"('50', 'años')",6,50 años
+"('años', 'compromiso')",6,años compromiso
+"('compromiso', 'social')",6,compromiso social
+"('colombia', 'mercado')",6,colombia mercado
+"('mercado', 'clave')",6,mercado clave
+"('camposanto', 'mapfre')",5,camposanto mapfre
+"('mapfre', 'chiclayo')",5,mapfre chiclayo
+"('chiclayo', 'monsefú')",5,chiclayo monsefú
+"('monsefú', 'fase')",5,monsefú fase
+"('fase', '1')",5,fase 1
+"('1', 'territorial')",5,1 territorial

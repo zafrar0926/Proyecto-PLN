@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('grupo', 'sura')",2172,grupo sura
+"('grupo', 'argos')",629,grupo argos
+"('seguros', 'sura')",365,seguros sura
+"('junta', 'directiva')",217,junta directiva
+"('argos', 'grupo')",202,argos grupo
+"('sura', 'grupo')",155,sura grupo
+"('cementos', 'argos')",151,cementos argos
+"('ricardo', 'jaramillo')",151,ricardo jaramillo
+"('presidente', 'grupo')",150,presidente grupo
+"('acciones', 'grupo')",133,acciones grupo
+"('eps', 'sura')",118,eps sura
+"('escisión', 'grupo')",114,escisión grupo
+"('accionistas', 'grupo')",107,accionistas grupo
+"('sura', 'argos')",103,sura argos
+"('utilidad', 'neta')",98,utilidad neta
+"('nueva', 'junta')",83,nueva junta
+"('directiva', 'grupo')",77,directiva grupo
+"('argos', 'sura')",74,argos sura
+"('jaime', 'gilinski')",74,jaime gilinski
+"('nuevo', 'presidente')",67,nuevo presidente

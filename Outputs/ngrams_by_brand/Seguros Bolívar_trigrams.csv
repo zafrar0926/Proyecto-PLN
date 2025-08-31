@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('davivienda', 'seguros', 'bolívar')",56,davivienda seguros bolívar
+"('presidente', 'seguros', 'bolívar')",42,presidente seguros bolívar
+"('retiro', 'voluntario', 'sistema')",25,retiro voluntario sistema
+"('eps', 'salud', 'bolívar')",21,eps salud bolívar
+"('álvaro', 'carrillo', 'buitrago')",18,álvaro carrillo buitrago
+"('carrillo', 'buitrago', 'presidente')",17,carrillo buitrago presidente
+"('buitrago', 'presidente', 'seguros')",17,buitrago presidente seguros
+"('arl', 'seguros', 'bolívar')",15,arl seguros bolívar
+"('seguros', 'bolívar', 'seguro')",15,seguros bolívar seguro
+"('carrillo', 'presidente', 'seguros')",15,carrillo presidente seguros
+"('voluntario', 'sistema', 'salud')",15,voluntario sistema salud
+"('pierda', 'standcar', 'comedy')",14,pierda standcar comedy
+"('álvaro', 'carrillo', 'presidente')",14,álvaro carrillo presidente
+"('fundación', 'bolívar', 'davivienda')",13,fundación bolívar davivienda
+"('standcar', 'comedy', 'acá')",13,standcar comedy acá
+"('salud', 'bolívar', 'eps')",13,salud bolívar eps
+"('sura', 'fundación', 'bolívar')",11,sura fundación bolívar
+"('tranquilo', 'seguros', 'bolívar')",9,tranquilo seguros bolívar
+"('conductor', 'pierda', 'standcar')",9,conductor pierda standcar
+"('seguros', 'bolívar', 'lanzan')",8,seguros bolívar lanzan

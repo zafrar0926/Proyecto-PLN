@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('patinaje', 'velocidad')",35,patinaje velocidad
+"('positiva', 'seguros')",31,positiva seguros
+"('nueva', 'eps')",28,nueva eps
+"('integral', 'salud')",28,integral salud
+"('grupo', 'bicentenario')",28,grupo bicentenario
+"('positiva', 'arl')",27,positiva arl
+"('aseguramiento', 'integral')",27,aseguramiento integral
+"('colombia', 'positiva')",27,colombia positiva
+"('seguros', '2024')",27,seguros 2024
+"('positiva', 'compañia')",26,positiva compañia
+"('compañia', 'seguros')",26,compañia seguros
+"('clasificados', 'seleccion')",25,clasificados seleccion
+"('seleccion', 'colombia')",25,seleccion colombia
+"('2024', 'patinaje')",25,2024 patinaje
+"('bicentenario', 'aseguradoras')",24,bicentenario aseguradoras
+"('positiva', 'previsora')",22,positiva previsora
+"('aseguradoras', 'positiva')",20,aseguradoras positiva
+"('alianza', 'nueva')",18,alianza nueva
+"('previsora', 'alianza')",18,previsora alianza
+"('positiva', 'compañía')",17,positiva compañía

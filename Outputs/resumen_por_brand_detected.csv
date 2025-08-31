@@ -1,0 +1,37 @@
+brand_detected,docs
+Sin marca,9764
+Sura,2969
+La Previsora,1014
+Seguros Bolívar,638
+MAPFRE,250
+AXA Colpatria,183
+Positiva,140
+Allianz,138
+Colmena,63
+Seguros Bolívar|Sura,48
+HDI|Liberty,48
+MetLife,45
+La Previsora|Positiva,37
+HDI,30
+Liberty,24
+La Previsora|Sura,14
+AXA Colpatria|Seguros Bolívar,13
+MAPFRE|Sura,7
+AXA Colpatria|Allianz|Sura,6
+Liberty|MAPFRE,4
+HDI|Seguros Bolívar,3
+MetLife|Positiva,3
+AXA Colpatria|MetLife,3
+La Previsora|Seguros Bolívar,2
+MAPFRE|Seguros Bolívar|Sura,2
+Allianz|MAPFRE,2
+AXA Colpatria|Positiva,2
+AXA Colpatria|Sura,2
+Positiva|Sura,2
+Allianz|Seguros Bolívar,2
+Allianz|Seguros Bolívar|Sura,2
+AXA Colpatria|Allianz|HDI|La Previsora|Liberty|MAPFRE|Seguros Bolívar,1
+AXA Colpatria|Colmena|Positiva,1
+Allianz|Liberty|MAPFRE|Sura,1
+AXA Colpatria|HDI,1
+Positiva|Seguros Bolívar|Sura,1

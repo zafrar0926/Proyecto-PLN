@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('axa', 'colpatria')",174,axa colpatria
+"('scotiabank', 'colpatria')",30,scotiabank colpatria
+"('arl', 'axa')",12,arl axa
+"('atención', 'axa')",12,atención axa
+"('pa', 'lante')",11,pa lante
+"('seguros', 'bolívar')",11,seguros bolívar
+"('colpatria', 'busca')",10,colpatria busca
+"('colpatria', 'seguros')",9,colpatria seguros
+"('colpatria', 'axa')",9,colpatria axa
+"('colpatria', 'sumó')",8,colpatria sumó
+"('sumó', 'pa')",8,sumó pa
+"('lante', 'colombia')",8,lante colombia
+"('busca', 'profesionales')",8,busca profesionales
+"('100', 'digital')",7,100 digital
+"('nuevo', 'servicio')",7,nuevo servicio
+"('soat', 'manera')",7,soat manera
+"('junto', 'axa')",6,junto axa
+"('alianza', 'ofrecer')",6,alianza ofrecer
+"('ofrecer', 'soluciones')",6,ofrecer soluciones
+"('servicio', 'adquirir')",6,servicio adquirir

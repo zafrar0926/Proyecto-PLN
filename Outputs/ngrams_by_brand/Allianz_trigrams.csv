@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('top', '3', 'mejores')",10,top 3 mejores
+"('3', 'mejores', 'lugares')",10,3 mejores lugares
+"('mejores', 'lugares', 'trabajar')",10,mejores lugares trabajar
+"('allianz', 'colombia', 'top')",9,allianz colombia top
+"('colombia', 'top', '3')",9,colombia top 3
+"('lugares', 'trabajar', 'colombia')",9,lugares trabajar colombia
+"('trabajar', 'colombia', 'mujeres')",9,trabajar colombia mujeres
+"('llega', 'allianz', 'one')",8,llega allianz one
+"('allianz', 'one', 'programa')",8,allianz one programa
+"('one', 'programa', 'fidelización')",8,one programa fidelización
+"('programa', 'fidelización', 'promete')",8,programa fidelización promete
+"('fidelización', 'promete', 'revolucionar')",8,fidelización promete revolucionar
+"('promete', 'revolucionar', 'industria')",8,promete revolucionar industria
+"('revolucionar', 'industria', 'aseguradora')",8,revolucionar industria aseguradora
+"('asesora', 'seguros', 'trabajo')",6,asesora seguros trabajo
+"('seguros', 'trabajo', 'sura')",6,seguros trabajo sura
+"('trabajo', 'sura', 'allianz')",6,trabajo sura allianz
+"('sura', 'allianz', 'axa')",6,sura allianz axa
+"('allianz', 'axa', 'colpatria')",6,allianz axa colpatria
+"('cafam', 'clínica', 'occidente')",5,cafam clínica occidente

@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('aseguramiento', 'integral', 'salud')",27,aseguramiento integral salud
+"('positiva', 'compañia', 'seguros')",26,positiva compañia seguros
+"('clasificados', 'seleccion', 'colombia')",25,clasificados seleccion colombia
+"('seleccion', 'colombia', 'positiva')",25,seleccion colombia positiva
+"('colombia', 'positiva', 'compañia')",25,colombia positiva compañia
+"('compañia', 'seguros', '2024')",25,compañia seguros 2024
+"('seguros', '2024', 'patinaje')",25,seguros 2024 patinaje
+"('2024', 'patinaje', 'velocidad')",25,2024 patinaje velocidad
+"('grupo', 'bicentenario', 'aseguradoras')",23,grupo bicentenario aseguradoras
+"('bicentenario', 'aseguradoras', 'positiva')",20,bicentenario aseguradoras positiva
+"('aseguradoras', 'positiva', 'previsora')",20,aseguradoras positiva previsora
+"('alianza', 'nueva', 'eps')",18,alianza nueva eps
+"('positiva', 'previsora', 'alianza')",18,positiva previsora alianza
+"('positiva', 'compañía', 'seguros')",17,positiva compañía seguros
+"('previsora', 'alianza', 'nueva')",14,previsora alianza nueva
+"('integral', 'salud', 'grupo')",13,integral salud grupo
+"('salud', 'grupo', 'bicentenario')",13,salud grupo bicentenario
+"('solución', 'puede', 'ser')",11,solución puede ser
+"('puede', 'ser', 'reforzar')",11,puede ser reforzar
+"('ser', 'reforzar', 'modelos')",11,ser reforzar modelos

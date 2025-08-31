@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('previsora', 'seguros')",233,previsora seguros
+"('aseguramiento', 'integral')",89,aseguramiento integral
+"('integral', 'salud')",89,integral salud
+"('nueva', 'eps')",87,nueva eps
+"('fiduciaria', 'previsora')",64,fiduciaria previsora
+"('previsora', 's')",46,previsora s
+"('aseguradora', 'previsora')",42,aseguradora previsora
+"('medida', 'cautelar')",38,medida cautelar
+"('modelo', 'aseguramiento')",36,modelo aseguramiento
+"('fiduprevisora', 'fomag')",34,fiduprevisora fomag
+"('modelo', 'salud')",33,modelo salud
+"('cautelar', 'fiduprevisora')",32,cautelar fiduprevisora
+"('grupo', 'bicentenario')",29,grupo bicentenario
+"('eficaz', 'modelo')",29,eficaz modelo
+"('seguros', 'previsora')",28,seguros previsora
+"('supersalud', 'impone')",27,supersalud impone
+"('santa', 'fe')",25,santa fe
+"('estatal', 'previsora')",25,estatal previsora
+"('bicentenario', 'aseguradoras')",24,bicentenario aseguradoras
+"('aseguradora', 'estatal')",24,aseguradora estatal

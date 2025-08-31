@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('50', 'años', 'compromiso')",6,50 años compromiso
+"('años', 'compromiso', 'social')",6,años compromiso social
+"('colombia', 'mercado', 'clave')",6,colombia mercado clave
+"('camposanto', 'mapfre', 'chiclayo')",5,camposanto mapfre chiclayo
+"('mapfre', 'chiclayo', 'monsefú')",5,mapfre chiclayo monsefú
+"('chiclayo', 'monsefú', 'fase')",5,chiclayo monsefú fase
+"('monsefú', 'fase', '1')",5,monsefú fase 1
+"('fase', '1', 'territorial')",5,fase 1 territorial
+"('fundación', 'mapfre', 'celebra')",5,fundación mapfre celebra
+"('mapfre', 'celebra', '50')",5,mapfre celebra 50
+"('celebra', '50', 'años')",5,celebra 50 años
+"('compromiso', 'social', 'destaca')",5,compromiso social destaca
+"('social', 'destaca', 'impacto')",5,social destaca impacto
+"('destaca', 'impacto', 'colombia')",5,destaca impacto colombia
+"('galería', 'camposanto', 'mapfre')",4,galería camposanto mapfre
+"('mapfre', 'creció', '1')",4,mapfre creció 1
+"('creció', '1', '4')",4,creció 1 4
+"('primer', 'trimestre', 'año')",4,primer trimestre año
+"('1', '4', 'colombia')",4,1 4 colombia
+"('mapfre', 'liberty', 'mutual')",4,mapfre liberty mutual

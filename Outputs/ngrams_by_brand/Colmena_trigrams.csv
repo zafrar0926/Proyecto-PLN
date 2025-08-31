@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('value', 'and', 'risk')",33,value and risk
+"('colmena', 'seguros', 'vida')",17,colmena seguros vida
+"('seguros', 'vida', 's')",17,seguros vida s
+"('and', 'risk', 'mantuvo')",15,and risk mantuvo
+"('info', 'relevante', 'superfinanciera')",12,info relevante superfinanciera
+"('s', 'calificaciones', 'riesgo')",12,s calificaciones riesgo
+"('calificaciones', 'riesgo', 'value')",12,calificaciones riesgo value
+"('riesgo', 'value', 'and')",12,riesgo value and
+"('calificaciones', 'portafolio', 'inversiones')",10,calificaciones portafolio inversiones
+"('fortaleza', 'financiera', 'capacidad')",9,fortaleza financiera capacidad
+"('financiera', 'capacidad', 'pago')",9,financiera capacidad pago
+"('portafolio', 'inversiones', 'administrado')",9,portafolio inversiones administrado
+"('inversiones', 'administrado', 'colmena')",9,inversiones administrado colmena
+"('administrado', 'colmena', 'seguros')",9,administrado colmena seguros
+"('colmena', 'seguros', 'riesgos')",9,colmena seguros riesgos
+"('seguros', 'riesgos', 'laborales')",9,seguros riesgos laborales
+"('riesgos', 'laborales', 's')",9,riesgos laborales s
+"('s', 'ver', 'comunicado')",9,s ver comunicado
+"('colmena', 'seguros', 'generales')",8,colmena seguros generales
+"('seguros', 'generales', 's')",8,seguros generales s

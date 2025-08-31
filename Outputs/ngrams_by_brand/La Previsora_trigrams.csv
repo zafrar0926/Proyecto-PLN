@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('aseguramiento', 'integral', 'salud')",87,aseguramiento integral salud
+"('medida', 'cautelar', 'fiduprevisora')",30,medida cautelar fiduprevisora
+"('cautelar', 'fiduprevisora', 'fomag')",30,cautelar fiduprevisora fomag
+"('eficaz', 'modelo', 'aseguramiento')",27,eficaz modelo aseguramiento
+"('fiduciaria', 'previsora', 's')",25,fiduciaria previsora s
+"('grupo', 'bicentenario', 'aseguradoras')",23,grupo bicentenario aseguradoras
+"('modelo', 'aseguramiento', 'integral')",23,modelo aseguramiento integral
+"('nuevo', 'modelo', 'salud')",22,nuevo modelo salud
+"('supersalud', 'impone', 'medida')",22,supersalud impone medida
+"('impone', 'medida', 'cautelar')",22,impone medida cautelar
+"('nueva', 'eps', 'aseguradora')",21,nueva eps aseguradora
+"('fundación', 'santa', 'fe')",21,fundación santa fe
+"('bicentenario', 'aseguradoras', 'positiva')",20,bicentenario aseguradoras positiva
+"('aseguradoras', 'positiva', 'previsora')",20,aseguradoras positiva previsora
+"('modelos', 'sostenibles', 'aseguramiento')",20,modelos sostenibles aseguramiento
+"('sostenibles', 'aseguramiento', 'integral')",20,sostenibles aseguramiento integral
+"('aseguradora', 'estatal', 'previsora')",20,aseguradora estatal previsora
+"('cargos', 'nombrar', 'personas')",19,cargos nombrar personas
+"('trabajadores', 'previsora', 'seguros')",19,trabajadores previsora seguros
+"('supersalud', 'abre', 'proceso')",19,supersalud abre proceso

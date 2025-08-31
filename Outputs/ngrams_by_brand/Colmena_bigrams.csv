@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('colmena', 'seguros')",59,colmena seguros
+"('value', 'and')",33,value and
+"('and', 'risk')",33,and risk
+"('s', 'ver')",20,s ver
+"('seguros', 'vida')",17,seguros vida
+"('vida', 's')",17,vida s
+"('risk', 'mantuvo')",15,risk mantuvo
+"('info', 'relevante')",12,info relevante
+"('relevante', 'superfinanciera')",12,relevante superfinanciera
+"('s', 'calificaciones')",12,s calificaciones
+"('calificaciones', 'riesgo')",12,calificaciones riesgo
+"('riesgo', 'value')",12,riesgo value
+"('calificación', 'aaa')",12,calificación aaa
+"('calificaciones', 'portafolio')",10,calificaciones portafolio
+"('portafolio', 'inversiones')",10,portafolio inversiones
+"('fortaleza', 'financiera')",9,fortaleza financiera
+"('financiera', 'capacidad')",9,financiera capacidad
+"('capacidad', 'pago')",9,capacidad pago
+"('inversiones', 'administrado')",9,inversiones administrado
+"('administrado', 'colmena')",9,administrado colmena

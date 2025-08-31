@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('allianz', 'colombia')",43,allianz colombia
+"('allianz', 'seguros')",21,allianz seguros
+"('llega', 'allianz')",11,llega allianz
+"('top', '3')",10,top 3
+"('3', 'mejores')",10,3 mejores
+"('mejores', 'lugares')",10,mejores lugares
+"('lugares', 'trabajar')",10,lugares trabajar
+"('colombia', 'top')",9,colombia top
+"('trabajar', 'colombia')",9,trabajar colombia
+"('colombia', 'mujeres')",9,colombia mujeres
+"('sura', 'allianz')",9,sura allianz
+"('allianz', 'barranquilla')",9,allianz barranquilla
+"('allianz', 'bogotá')",8,allianz bogotá
+"('allianz', 'medellín')",8,allianz medellín
+"('allianz', 'one')",8,allianz one
+"('one', 'programa')",8,one programa
+"('programa', 'fidelización')",8,programa fidelización
+"('fidelización', 'promete')",8,fidelización promete
+"('promete', 'revolucionar')",8,promete revolucionar
+"('revolucionar', 'industria')",8,revolucionar industria

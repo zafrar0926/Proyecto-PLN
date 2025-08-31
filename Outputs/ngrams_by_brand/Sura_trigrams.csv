@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('argos', 'grupo', 'sura')",182,argos grupo sura
+"('grupo', 'argos', 'grupo')",176,grupo argos grupo
+"('grupo', 'sura', 'grupo')",142,grupo sura grupo
+"('presidente', 'grupo', 'sura')",132,presidente grupo sura
+"('sura', 'grupo', 'argos')",129,sura grupo argos
+"('acciones', 'grupo', 'sura')",98,acciones grupo sura
+"('junta', 'directiva', 'grupo')",77,junta directiva grupo
+"('directiva', 'grupo', 'sura')",77,directiva grupo sura
+"('nueva', 'junta', 'directiva')",77,nueva junta directiva
+"('accionistas', 'grupo', 'sura')",67,accionistas grupo sura
+"('escisión', 'grupo', 'sura')",64,escisión grupo sura
+"('ricardo', 'jaramillo', 'presidente')",58,ricardo jaramillo presidente
+"('jaramillo', 'presidente', 'grupo')",52,jaramillo presidente grupo
+"('seguros', 'sura', 'colombia')",48,seguros sura colombia
+"('escisión', 'grupo', 'argos')",48,escisión grupo argos
+"('ricardo', 'jaramillo', 'mejía')",46,ricardo jaramillo mejía
+"('app', 'seguros', 'sura')",45,app seguros sura
+"('grupo', 'sura', 'reportó')",40,grupo sura reportó
+"('nuevo', 'presidente', 'grupo')",39,nuevo presidente grupo
+"('grupo', 'empresarial', 'antioqueño')",36,grupo empresarial antioqueño

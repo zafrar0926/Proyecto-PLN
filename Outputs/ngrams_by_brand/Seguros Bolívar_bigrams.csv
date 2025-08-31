@@ -1,0 +1,21 @@
+ngram,freq,ngram_text
+"('seguros', 'bolívar')",399,seguros bolívar
+"('seguros', 'bolivar')",135,seguros bolivar
+"('grupo', 'bolívar')",67,grupo bolívar
+"('davivienda', 'seguros')",60,davivienda seguros
+"('salud', 'bolívar')",52,salud bolívar
+"('presidente', 'seguros')",43,presidente seguros
+"('álvaro', 'carrillo')",39,álvaro carrillo
+"('retiro', 'voluntario')",31,retiro voluntario
+"('grupo', 'sura')",26,grupo sura
+"('bolívar', 'davivienda')",26,bolívar davivienda
+"('sistema', 'salud')",26,sistema salud
+"('voluntario', 'sistema')",25,voluntario sistema
+"('eps', 'salud')",21,eps salud
+"('carrillo', 'buitrago')",18,carrillo buitrago
+"('arl', 'seguros')",17,arl seguros
+"('buitrago', 'presidente')",17,buitrago presidente
+"('constructora', 'bolívar')",16,constructora bolívar
+"('carrillo', 'presidente')",16,carrillo presidente
+"('bolívar', 'eps')",16,bolívar eps
+"('bolívar', 'seguro')",15,bolívar seguro
